@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/yonas/Desktop/Unity/UnityProgramming/First/Assets/Scenes/Prototype
+    1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
